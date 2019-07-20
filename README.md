@@ -6,3 +6,6 @@ ____
 
 We have implemented the Fair Ruffle scheduling algorithm in RedHat Linux with kernel version 2.4.20. 
 
+## Credits  
+![credits](credits.jpg)
+
